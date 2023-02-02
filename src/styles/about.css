@@ -1,0 +1,13 @@
+.containerImg{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+.rounded{
+    border-radius: 25px;
+    width: 40vh;
+    margin: 8px 8px 8px 8px;
+    /* max-width: 500px; */
+}

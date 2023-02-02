@@ -1,0 +1,14 @@
+#picture{
+    display: flex;
+    flex-direction: column;
+    max-width: 1200px;
+    align-items: center;
+    text-align: center;
+    min-height: 100vh;
+}
+img{
+    width: 90vw;
+    border-radius: 10px;
+    max-width: 700px;
+    margin-bottom: 12px;
+}

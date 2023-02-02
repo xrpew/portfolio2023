@@ -1,0 +1,29 @@
+.containerTecs{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;  
+    flex-wrap: wrap;
+    gap: 32px;
+    padding: 20px;
+    
+}
+.imageTecs{
+    max-width: 80px;
+}
+#tecs{
+    padding: 20px;
+    margin-top: 60px;
+    width: 100vw;
+    min-height: 50vh;
+    max-width: 1200px;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+}
+#tecs h3{
+    font-size: 32px;
+}
+#tecs p{
+    font-family: 'Courier New', Courier, monospace;
+}
