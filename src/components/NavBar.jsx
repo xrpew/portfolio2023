@@ -37,14 +37,13 @@ export const NavBar = () => {
               </a>
             </li>
             <li className="nav-item">
-              <a className="nav-link active" aria-current="page" href="#picture">
-                Foto del día
-              <i class="bi bi-camera2" style={{marginLeft:4}}></i>
+              <a className="nav-link" href="#about">
+                Sobre mi
               </a>
             </li>
             <li className="nav-item">
-              <a className="nav-link" href="#about">
-                Sobre mi
+              <a className="nav-link active" aria-current="page" href="#picture">
+                Foto del día
               </a>
             </li>
             <li className="nav-item dropdown">
