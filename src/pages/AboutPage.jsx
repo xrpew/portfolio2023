@@ -1,4 +1,5 @@
 import "../styles/about.css";
+import drums from 'src/assets/drums.jpg'
 
 export const AboutPage = () => {
   return (
@@ -24,7 +25,7 @@ export const AboutPage = () => {
 
           <div className="containerImg">
             <img
-              src="src/assets/drums.jpg"
+              src={ drums }
               class="img-fluid rounded thirth"
               alt="..."
             ></img>
