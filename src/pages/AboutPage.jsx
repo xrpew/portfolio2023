@@ -1,5 +1,5 @@
 import "../styles/about.css";
-import drums from 'src/assets/drums.jpg'
+import drums from '../assets/drums.jpg'
 
 export const AboutPage = () => {
   return (
@@ -22,7 +22,6 @@ export const AboutPage = () => {
             </p>
           </div>
           <hr />
-
           <div className="containerImg">
             <img
               src={ drums }
