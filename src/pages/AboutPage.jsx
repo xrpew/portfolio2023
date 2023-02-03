@@ -1,5 +1,6 @@
 import "../styles/about.css";
 import drums from '../assets/drums.jpg'
+import code from '../assets/code.jpg'
 
 export const AboutPage = () => {
   return (
@@ -26,12 +27,12 @@ export const AboutPage = () => {
             <img
               src={ drums }
               class="img-fluid rounded thirth"
-              alt="..."
+              alt="drum"
             ></img>
             <img
-              src="src/assets/code.jpg"
+              src={ code }
               class="img-fluid rounded"
-              alt="..."
+              alt="coding"
             ></img>
             
           </div>
