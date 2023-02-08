@@ -63,7 +63,7 @@ export const NavBar = () => {
                   </a>
                 </li>
                 <li>
-                  <a className="dropdown-item" href="https://xrpew-pasword-generator.netlify.app/" target='_blank'>
+                  <a className="dropdown-item" href="https://generarpass.netlify.app/" target='_blank'>
                     Generador de contraseñas
                   </a>
                 </li>
