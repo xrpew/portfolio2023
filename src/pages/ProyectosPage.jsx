@@ -23,7 +23,7 @@ export const ProyectosPage = () => {
             description="Permite generar contraseñas seguras. 
             Además cuenta con la opción de copiar fácilmente tu contraseña generada, para usarla con fácilidad. "
             image={ PWGenerateIMG }
-            url="https://xrpew-pasword-generator.netlify.app/"
+            url="https://generarpass.netlify.app/"
             callToAction="Generar"
           />
           <CardProyect
