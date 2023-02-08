@@ -11,7 +11,7 @@ export const Quote = () => {
     return (
       <section className="page">
         <div id="quote">
-      <i class="bi bi-incognito" style={{fontSize:24}}></i>
+      <i className="bi bi-incognito" style={{fontSize:24}}></i>
 
           <p>Frases grandiosas de Breaking Bad (consumidas a travez de una API)</p>
 
@@ -29,7 +29,7 @@ export const Quote = () => {
   return (
     <section className="page">
       <div id="quote">
-      <i class="bi bi-incognito" style={{fontSize:24}}></i>
+      <i className="bi bi-incognito" style={{fontSize:24}}></i>
         <p>Frases grandiosas de Breaking Bad (consumidas a travez de una API)</p>
 
         <h4>{brBadQ[0]?.quote}</h4>

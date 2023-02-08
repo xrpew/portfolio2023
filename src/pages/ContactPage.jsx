@@ -7,10 +7,10 @@ export const ContactPage = () => {
       <div id="contact">
         <div>
           <a href="https://github.com/xrpew" target='_blank'>
-            <i class="bi bi-github" style={{ fontSize: 32, margin: 4 }}></i>
+            <i className="bi bi-github" style={{ fontSize: 32, margin: 4 }}></i>
           </a>
           <a href="https://www.linkedin.com/in/sergio-perez-frontend/" target='_blank'>
-            <i class="bi bi-linkedin" style={{ fontSize: 32, margin: 4 }}></i>
+            <i className="bi bi-linkedin" style={{ fontSize: 32, margin: 4 }}></i>
           </a>
         </div>
         <h4>Contacto</h4>
@@ -21,7 +21,7 @@ export const ContactPage = () => {
         >
           <button className="btn btn-primary">
             <i
-              class="bi bi-file-earmark-person"
+              className="bi bi-file-earmark-person"
               style={{ fontSize: 20, margin: 4 }}
             ></i>
             Descargar CV

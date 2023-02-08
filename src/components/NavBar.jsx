@@ -12,9 +12,9 @@ export const NavBar = () => {
       <div className="container-fluid">
         <a className="navbar-brand" href="#" onClick={handlePineable}>
           {pineable ? (
-            <i class="bi bi-pin" style={{ marginRight: 10 }}></i>
+            <i className="bi bi-pin" style={{ marginRight: 10 }}></i>
           ) : (
-            <i class="bi bi-pin-fill" style={{ marginRight: 10 }}></i>
+            <i className="bi bi-pin-fill" style={{ marginRight: 10 }}></i>
           )}
           { `Sergio Pérez />`}
         </a>

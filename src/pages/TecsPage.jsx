@@ -11,22 +11,22 @@ export const TecsPage = () => {
         <div className="containerTecs">
           
           <div style={{ textAlign: "center", color: "white" }}>
-            <img src={ htmlIMG } class="imageTecs" alt="html" />
+            <img src={ htmlIMG } className="imageTecs" alt="html" />
             <p>HTML</p>
           </div>
 
           <div style={{ textAlign: "center"}}>
-            <img src={ cssIMG } class="imageTecs" alt="css" />
+            <img src={ cssIMG } className="imageTecs" alt="css" />
             <p>CSS</p>
           </div>
 
           <div style={{ textAlign: "center" , color: "white" }}>
-            <img src={ javaScriptIMG } class="imageTecs" alt="Javascript" />
+            <img src={ javaScriptIMG } className="imageTecs" alt="Javascript" />
             <p>javaScript</p>
           </div>
           
           <div style={{ textAlign: "center" }}>
-            <img src={ reactIMG } class="imageTecs" alt="react" />
+            <img src={ reactIMG } className="imageTecs" alt="react" />
             <p>React</p>
           </div>
 
